@@ -1,0 +1,22 @@
+{
+  "name": "wns-resolver",
+  "version": "1.0.0",
+  "description": "Web3 Name Service (WNS) Resolver Library resolves names and addresses in the WNS ecosystem.",
+  "main": "./index.js",
+  "keywords": [
+    "wns",
+    "wns-resolver",
+    "Web3 Name Service",
+    "web3nameservice"
+  ],
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Web3 Name Service (WNS)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
