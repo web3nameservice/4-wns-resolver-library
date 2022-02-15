@@ -1,6 +1,6 @@
 {
   "name": "wns-resolver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web3 Name Service (WNS) Resolver Library resolves names and addresses in the WNS ecosystem.",
   "main": "./index.js",
   "keywords": [
